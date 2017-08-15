@@ -1,2 +1,2 @@
-console.log('running index.js of !!projectName!!');
+console.log('running index.js of !projectName!');
 
